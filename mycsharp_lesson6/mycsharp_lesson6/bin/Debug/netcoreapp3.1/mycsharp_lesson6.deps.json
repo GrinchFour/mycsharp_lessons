@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "mycsharp_lesson6/1.0.0": {
+        "runtime": {
+          "mycsharp_lesson6.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "mycsharp_lesson6/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

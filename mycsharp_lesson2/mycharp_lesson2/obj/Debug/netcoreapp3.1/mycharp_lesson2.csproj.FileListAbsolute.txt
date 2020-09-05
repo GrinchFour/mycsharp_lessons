@@ -1,0 +1,13 @@
+C:\Users\GrinchFour\Desktop\mysharp\mycharp_lesson2\mycharp_lesson2\bin\Debug\netcoreapp3.1\mycharp_lesson2.exe
+C:\Users\GrinchFour\Desktop\mysharp\mycharp_lesson2\mycharp_lesson2\bin\Debug\netcoreapp3.1\mycharp_lesson2.deps.json
+C:\Users\GrinchFour\Desktop\mysharp\mycharp_lesson2\mycharp_lesson2\bin\Debug\netcoreapp3.1\mycharp_lesson2.runtimeconfig.json
+C:\Users\GrinchFour\Desktop\mysharp\mycharp_lesson2\mycharp_lesson2\bin\Debug\netcoreapp3.1\mycharp_lesson2.runtimeconfig.dev.json
+C:\Users\GrinchFour\Desktop\mysharp\mycharp_lesson2\mycharp_lesson2\bin\Debug\netcoreapp3.1\mycharp_lesson2.dll
+C:\Users\GrinchFour\Desktop\mysharp\mycharp_lesson2\mycharp_lesson2\bin\Debug\netcoreapp3.1\mycharp_lesson2.pdb
+C:\Users\GrinchFour\Desktop\mysharp\mycharp_lesson2\mycharp_lesson2\obj\Debug\netcoreapp3.1\mycharp_lesson2.csprojAssemblyReference.cache
+C:\Users\GrinchFour\Desktop\mysharp\mycharp_lesson2\mycharp_lesson2\obj\Debug\netcoreapp3.1\mycharp_lesson2.csproj.CoreCompileInputs.cache
+C:\Users\GrinchFour\Desktop\mysharp\mycharp_lesson2\mycharp_lesson2\obj\Debug\netcoreapp3.1\mycharp_lesson2.AssemblyInfoInputs.cache
+C:\Users\GrinchFour\Desktop\mysharp\mycharp_lesson2\mycharp_lesson2\obj\Debug\netcoreapp3.1\mycharp_lesson2.AssemblyInfo.cs
+C:\Users\GrinchFour\Desktop\mysharp\mycharp_lesson2\mycharp_lesson2\obj\Debug\netcoreapp3.1\mycharp_lesson2.dll
+C:\Users\GrinchFour\Desktop\mysharp\mycharp_lesson2\mycharp_lesson2\obj\Debug\netcoreapp3.1\mycharp_lesson2.pdb
+C:\Users\GrinchFour\Desktop\mysharp\mycharp_lesson2\mycharp_lesson2\obj\Debug\netcoreapp3.1\mycharp_lesson2.genruntimeconfig.cache
