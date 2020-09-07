@@ -1,0 +1,6 @@
+red
+green
+black
+white
+blue
+Самая длинная строка длиной: 5
