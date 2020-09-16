@@ -1,0 +1,13 @@
+C:\Users\GrinchFour\Desktop\mysharp\mycsharp_lesson20\mycsharp_lesson20\bin\Debug\netcoreapp3.1\mycsharp_lesson20.exe
+C:\Users\GrinchFour\Desktop\mysharp\mycsharp_lesson20\mycsharp_lesson20\bin\Debug\netcoreapp3.1\mycsharp_lesson20.deps.json
+C:\Users\GrinchFour\Desktop\mysharp\mycsharp_lesson20\mycsharp_lesson20\bin\Debug\netcoreapp3.1\mycsharp_lesson20.runtimeconfig.json
+C:\Users\GrinchFour\Desktop\mysharp\mycsharp_lesson20\mycsharp_lesson20\bin\Debug\netcoreapp3.1\mycsharp_lesson20.runtimeconfig.dev.json
+C:\Users\GrinchFour\Desktop\mysharp\mycsharp_lesson20\mycsharp_lesson20\bin\Debug\netcoreapp3.1\mycsharp_lesson20.dll
+C:\Users\GrinchFour\Desktop\mysharp\mycsharp_lesson20\mycsharp_lesson20\bin\Debug\netcoreapp3.1\mycsharp_lesson20.pdb
+C:\Users\GrinchFour\Desktop\mysharp\mycsharp_lesson20\mycsharp_lesson20\obj\Debug\netcoreapp3.1\mycsharp_lesson20.csprojAssemblyReference.cache
+C:\Users\GrinchFour\Desktop\mysharp\mycsharp_lesson20\mycsharp_lesson20\obj\Debug\netcoreapp3.1\mycsharp_lesson20.csproj.CoreCompileInputs.cache
+C:\Users\GrinchFour\Desktop\mysharp\mycsharp_lesson20\mycsharp_lesson20\obj\Debug\netcoreapp3.1\mycsharp_lesson20.AssemblyInfoInputs.cache
+C:\Users\GrinchFour\Desktop\mysharp\mycsharp_lesson20\mycsharp_lesson20\obj\Debug\netcoreapp3.1\mycsharp_lesson20.AssemblyInfo.cs
+C:\Users\GrinchFour\Desktop\mysharp\mycsharp_lesson20\mycsharp_lesson20\obj\Debug\netcoreapp3.1\mycsharp_lesson20.dll
+C:\Users\GrinchFour\Desktop\mysharp\mycsharp_lesson20\mycsharp_lesson20\obj\Debug\netcoreapp3.1\mycsharp_lesson20.pdb
+C:\Users\GrinchFour\Desktop\mysharp\mycsharp_lesson20\mycsharp_lesson20\obj\Debug\netcoreapp3.1\mycsharp_lesson20.genruntimeconfig.cache
